@@ -465,7 +465,7 @@ export default [
   'Aron',
   'Emir',
   'Jonah',
-  'Ãmer',
+  'Ãmer',
   'Jelte',
   'Melle',
   'Jacob',
